@@ -1,0 +1,26 @@
+Sales Dashboard Project – README
+🎯 Objective
+Create an interactive dashboard using Power BI or Tableau to track Sales, Profit, and Growth, and help stakeholders make business decisions.
+
+🛠 Tools
+Tableau
+
+Sales dataset Analysis_train (e.g., from Kaggle)
+
+📌 Features
+KPIs: Total Sales, Profit, Growth %
+
+Time-series charts (Line/Area)
+
+Filters: Date, Region, Category
+
+Cards for summary values
+
+Consistent color theme
+
+Simple navigation (tabs/buttons)
+
+📁 Deliverables
+Dashboard file (.pbix or .twbx)
+
+PPT with key insights & visuals
